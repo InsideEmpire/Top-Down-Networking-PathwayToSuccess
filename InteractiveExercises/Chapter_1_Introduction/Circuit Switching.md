@@ -1,7 +1,7 @@
 # CIRCUIT SWITCHING | 电路交换  
 Consider the circuit-switched network shown in the figure below, with circuit switches A, B, C, and D. Suppose there are 12 circuits between A and B, 15 circuits between B and C, 12 circuits between C and D, and 15 circuits between D and A.  
 请参考下图的电路交换网络，电路交换机为A、B、C和D。假设A和B之间有12条电路，B和C之间有15条电路，C和D之间有12条电路，D和A之间有15条电路。  
-![circuit-switched](../src/circuit-switched.png)
+![circuit-switched](../image/circuit-switched.png)
 
 ---
 

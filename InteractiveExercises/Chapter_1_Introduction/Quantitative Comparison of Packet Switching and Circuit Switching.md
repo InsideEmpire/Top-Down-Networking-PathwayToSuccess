@@ -9,7 +9,7 @@ This question requires a little bit of background in probability (but we'll try 
 - A packet-switching scenario with Nps users sharing a 150 Mbps link, where each user again requires 10 Mbps when transmitting, but only needs to transmit 10 percent of the time.  
   分组交换场景，其中Nps用户共享一个150 Mbps的链路，每个用户在传输时需要10 Mbps，但只有10%的时间需要传输。
 
-![Comparison](../src/Comparison.png)
+![Comparison](../image/Comparison.png)
 
 ---
 

@@ -3,7 +3,7 @@
 Consider the figure below, adapted from Figure 1.17 in the text, which draws the analogy between store-and-forward link transmission and propagation of bits in packet along a link, and cars in a caravan being serviced at a toll booth and then driving along a road to the next tollbooth.  
 考虑下图，该图改编自教材中的图 1.17，它将存储转发链路传输与分组沿链路传播的比特进行类比，以及收费站服务车辆并驶向下一个收费站的车队进行类比。
 
-![Caravan-Analogy](../src/Caravan-Analogy.png)
+![Caravan-Analogy](../image/Caravan-Analogy.png)
 
 Suppose the caravan has 5 cars, and that the tollbooth services (that is, transmits) a car at a rate of one car per 1 second. Once receiving service, a car proceeds to the next tollbooth, which is 400 kilometers away at a rate of 20 kilometers per second. Also assume that whenever the first car of the caravan arrives at a tollbooth, it must wait at the entrance to the tollbooth until all of the other cars in its caravan have arrived and lined up behind it before being serviced at the toll booth. (That is, the entire caravan must be stored at the tollbooth before the first car in the caravan can pay its toll and begin driving towards the next tollbooth).  
 假设车队有 5 辆车，收费站的服务速率（即传输速率）为每秒 1 辆车。当一辆车接受完服务后，它会以 20 公里/秒的速度行驶 400 公里到下一个收费站。此外，假设当车队的第一辆车到达收费站时，它必须等到车队中的所有其他车辆都到达并排在其后，才能开始接受服务（也就是说，整个车队必须先存储在收费站，第一辆车才能支付通行费并驶向下一个收费站）。
