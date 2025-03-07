@@ -172,3 +172,6 @@ cython_debug/
 
 # Ignore the template file
 Template.md
+
+# macOs file
+.DS_Store
